@@ -31,5 +31,3 @@
 - **YouTube IFrame API (embedded)**
 
 ---
-
-## 📁 Project Structure
