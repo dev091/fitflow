@@ -19,10 +19,7 @@
 
 | Home | Yoga Detail | Session Page |
 |------|-------------|--------------|
-| ![Home](![image](https://github.com/user-attachments/assets/b5b9d219-b423-4140-8bc0-b86a3282c0b7)
-) | ![Yoga](![image](https://github.com/user-attachments/assets/6f785caa-7101-4234-adad-45d85d2e17b4)
-) | ![Session](![image](https://github.com/user-attachments/assets/95db9759-3930-43a2-bfd2-58ef95a919a0)
-) |
+| ![Home](https://github.com/user-attachments/assets/b5b9d219-b423-4140-8bc0-b86a3282c0b7) | ![Yoga](https://github.com/user-attachments/assets/6f785caa-7101-4234-adad-45d85d2e17b4) | ![Session](https://github.com/user-attachments/assets/95db9759-3930-43a2-bfd2-58ef95a919a0) |
 
 ---
 
